@@ -2,6 +2,8 @@ RoboPet
 =========
 RoboPet is the Remote Controllable Robot for Interacting with Pets - based on the Arduino Robot.
 
+![RoboPet](http://blog.buildinginternetofthings.com/wp-content/uploads/2014/03/admin-ajax.jpeg)
+
 Implementation details can be found [here].
 
 The repository contains all source code needed for the Arduino Robot, the Android phone and the WebRTC/WebSockets part.
