@@ -1,0 +1,14 @@
+{
+  "name": "robopet-screen",
+  "private": true,
+  "dependencies": {
+    "backbone": null,
+    "underscore": null,
+    "requirejs": null,
+    "foundation": null,
+    "modernizr": "~2.6.2",
+    "jquery": null,
+    "socket.io": null
+  },
+  "devDependencies": {}
+}
