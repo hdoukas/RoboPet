@@ -1,0 +1,7 @@
+/nbproject/private/
+nbproject
+
+webrtc_app/node_modules/*
+webrtc_app/public/libs/*
+
+Android/RoboPet_Service/bin/
